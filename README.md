@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm an **Azure Data Engineer** with **2.5 years of experie
 
 ## 🔍 Let’s Connect
 
-- **LinkedIn:** [Sivaprasad V]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/sivaprasad-v-213011213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn:**  [Sivaprasad V](https://www.linkedin.com/in/sivaprasad-v-213011213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub:** [Sivaprasad V](https://github.com/Sivaprasad-V?tab=repositories)
 
 ---
