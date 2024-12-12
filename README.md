@@ -1,61 +1,56 @@
-Hi there! I'm Sivaprasad V 👋
+# Hi there! I'm Sivaprasad V 👋
 
-Welcome to my GitHub! I'm an Azure Data Engineer with 2.5 years of experience currently working at Infosys. My expertise lies in crafting robust data solutions, optimizing data pipelines, and empowering businesses with actionable insights through the power of cloud computing and big data technologies.
+Welcome to my GitHub! I'm an **Azure Data Engineer** with **2.5 years of experience** currently working at **Infosys**. My expertise lies in crafting robust data solutions, optimizing data pipelines, and empowering businesses with actionable insights through the power of cloud computing and big data technologies.
 
-🔧 Technologies & Skills
+---
 
-Cloud Platforms: Azure (Data Factory, Synapse Analytics, Databricks, Azure SQL, Blob Storage)
+## 🔧 Technologies & Skills
 
-Big Data Tools: Apache Spark (PySpark), Hadoop
+- **Cloud Platforms:** Azure (Data Factory, Synapse Analytics, Databricks, Azure SQL, Blob Storage)
+- **Big Data Tools:** Apache Spark (PySpark), Hadoop
+- **Programming Languages:** Python, SQL, Scala
+- **Data Integration & ETL:** Expertise in building efficient and scalable ETL pipelines
+- **Database Management:** SQL Server, PostgreSQL, Cosmos DB
+- **Workflow Orchestration:** Azure Data Factory, Apache Airflow
+- **Version Control:** Git, GitHub
 
-Programming Languages: Python, SQL, Scala
+---
 
-Data Integration & ETL: Expertise in building efficient and scalable ETL pipelines
+## 🎯 What I’m Currently Working On
 
-Database Management: SQL Server, PostgreSQL, Cosmos DB
+- Enhancing my knowledge of **distributed computing** and **data architecture**.
+- Diving deeper into **Data Lakehouse architectures** using **Delta Lake**.
+- Building scalable and resilient **data pipelines** for real-world projects.
 
-Workflow Orchestration: Azure Data Factory, Apache Airflow
+---
 
-Version Control: Git, GitHub
+## 📊 Key Projects
 
-🎯 What I’m Currently Working On
+### 1. **Customer Insights Platform**
+- Built a scalable pipeline on **Azure Synapse** and **Databricks** to ingest and analyze customer data.
+- Reduced data processing time by **30%** using **PySpark** optimizations.
 
-Enhancing my knowledge of distributed computing and data architecture.
+### 2. **ETL Pipeline Automation**
+- Automated complex ETL workflows using **Azure Data Factory** and **Python**.
+- Increased data reliability and reduced manual intervention by **50%**.
 
-Diving deeper into Data Lakehouse architectures using Delta Lake.
+### 3. **Sales Data Analytics**
+- Designed dashboards using **Power BI** integrated with Azure Data sources.
+- Provided actionable insights leading to a **15% increase in sales efficiency**.
 
-Building scalable and resilient data pipelines for real-world projects.
+---
 
-📊 Key Projects
+## 🔍 Let’s Connect
 
-1. Customer Insights Platform
+- **LinkedIn:** [Sivaprasad V](https://linkedin.com/in/your-profile-link)
+- **GitHub:** [Sivaprasad V](https://github.com/your-github-username)
 
-Built a scalable pipeline on Azure Synapse and Databricks to ingest and analyze customer data.
+---
 
-Reduced data processing time by 30% using PySpark optimizations.
-
-2. ETL Pipeline Automation
-
-Automated complex ETL workflows using Azure Data Factory and Python.
-
-Increased data reliability and reduced manual intervention by 50%.
-
-3. Sales Data Analytics
-
-Designed dashboards using Power BI integrated with Azure Data sources.
-
-Provided actionable insights leading to a 15% increase in sales efficiency.
-
-🔍 Let’s Connect
-
-LinkedIn: [Sivaprasad V](https://www.linkedin.com/in/sivaprasad-v-213011213/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-GitHub: [Sivaprasad V](https://github.com/Sivaprasad-V?tab=repositories)
-
-Fun Fact
-
+### Fun Fact
 I’m passionate about solving real-world data problems and enjoy learning the latest advancements in cloud computing and big data. When I’m not coding, you can find me exploring new places or trying out new tech gadgets.
 
-Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussions!
+---
 
+Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussions!
 
