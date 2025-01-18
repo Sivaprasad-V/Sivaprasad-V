@@ -1,6 +1,6 @@
 # Hi there! I'm Sivaprasad V 👋
 
-Welcome to my GitHub! I'm an **Azure Data Engineer** with **2.5 years of experience** currently working at **Infosys**. My expertise lies in crafting robust data solutions, optimizing data pipelines, and empowering businesses with actionable insights through the power of cloud computing and big data technologies.
+Welcome to my GitHub! I'm an **Azure Data Engineer** with **2.7 years of experience** currently working at **Infosys**. My expertise lies in crafting robust data solutions, optimizing data pipelines, and empowering businesses with actionable insights through the power of cloud computing and big data technologies.
 
 ---
 
